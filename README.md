@@ -4,7 +4,7 @@
 
 English Description 
 
-BaseAnimation network Android animation set, custom controls, nearly 200 kinds of source code！
+BaseAnimation network Android animation set, custom controls, nearly 200 kinds of source code
 BaseAnimation, if a new version is updated automatically to remind everyone, I hope everyone will contribute their animated XML files or other source, together to create this open source app！
 
 BaseAnimation  QQ group：149581646
